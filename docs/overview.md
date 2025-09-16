@@ -3,7 +3,7 @@
 **Clean My Mind** is not a social network or a data-hungry service.  
 It is a silent ritual that lives on your machine.
 
-It runs locally — no feeds, no ads, no third parties.  
+It runs locally - no feeds, no ads, no third parties.  
 Your thoughts remain yours. Always.
 
 ### Core Principles
